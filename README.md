@@ -1,1 +1,1 @@
-# sem3lab3
+# Шаблон настройки GitHub Actions
